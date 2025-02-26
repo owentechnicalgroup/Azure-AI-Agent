@@ -4,3 +4,6 @@ langchain-openai
 python-dotenv
 chromadb
 openai
+sqlalchemy
+sqlalchemy-utils
+pyodbc

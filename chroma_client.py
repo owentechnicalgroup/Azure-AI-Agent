@@ -46,7 +46,7 @@ class ChromaDBClient:
         """
         try:
             params = {
-                "collection_name": "laoddocuments",
+                "collection_name": "loandocuments",
                 "query_text": query,
                 "n_results": n_results
             }
